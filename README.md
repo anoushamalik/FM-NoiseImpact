@@ -5,8 +5,6 @@
 
 This repository contains MATLAB and GNU Radio files focused on Frequency Modulation (FM) techniques, including the analysis of noise effects such as Gaussian noise and impulse noise on FM signals. These files serve as a practical resource for understanding how FM works, how noise impacts the signal, and the calculation of performance metrics like Signal-to-Noise Ratio (SNR) and Bit Error Rate (BER).
 
-## Contents
-
 ### 1. **MATLAB Codes**
 
 #### **1.1. FM with Gaussian Noise**
@@ -37,9 +35,7 @@ This repository contains MATLAB and GNU Radio files focused on Frequency Modulat
    - **Key Features**:
      - Implementation of FM modulation in GNU Radio
      - Addition of Gaussian and impulse noise to the FM signal
-     - Analysis and visualization of the modulated and noisy signals
-
-## How to Use
+     - Analysis and visualization of the modulated and noisy signals.
 
 ### MATLAB Codes:
 1. **Download the MATLAB scripts**: 
